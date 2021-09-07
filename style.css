@@ -1,0 +1,67 @@
+.center {
+    margin: auto;
+    width: 40%;
+  }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 40px;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    padding: 30px;
+    font-family: Raleway;
+  }
+
+  .flexContainer {
+    display: flex;
+
+  }
+
+.ContainerGrid {
+  display: grid;
+  background-color: #219653;
+  padding: 10px
+}
+
+h1 {
+  text-align: center;
+  font-family: "Raleway";
+
+}
+
+h3 {
+  text-align: center;
+  font-family: "Raleway";
+
+}
+
+h4 {
+  text-align: center;
+  font-family: "Raleway";
+
+}
+
+  p {
+    font-family: "Raleway";
+    text-align: center
+  
+  }
+
+
+    footer { 
+      padding: 10px 10px 40px;
+      background-color: #373738; text-align: center; 
+      color: #ffffff;
+      font-family: Raleway;
+    } 
+
+  
